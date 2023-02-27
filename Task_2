@@ -1,0 +1,5 @@
+public void task02() {
+            System.out.println(( 14 >> 0 ));
+            System.out.println((( 14 >> 0 ) << 2 ));
+            System.out.println(((( 14 >> 0 ) << 2 )>>4));
+        };
